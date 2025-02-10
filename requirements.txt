@@ -1,0 +1,17 @@
+# Core deep learning libraries
+torch>=1.9.0
+torchvision>=0.10.0
+torchaudio>=0.9.0
+
+# For displaying training progress in the command line
+tqdm>=4.62.0
+
+# Gradio for the web-based inference UI
+gradio>=3.0.0
+
+# Image handling
+Pillow>=8.0.0
+pickle
+
+#Optuna for hyperparameter search
+optuna>=4.2.0
